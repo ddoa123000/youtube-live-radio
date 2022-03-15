@@ -5,4 +5,4 @@ services:
     container_name: youtube-service
     image: youtube-stream:latest
     environment: 
-      YOUTUBE_KEY: YOUR-YOUTUBE_KEY
+      YOUTUBE_KEY: j323-yhqg-fzj5-ux2g-01b6
